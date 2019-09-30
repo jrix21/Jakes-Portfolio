@@ -27,3 +27,9 @@ main {
 #portContent{
   margin-top: 20px;
 }
+
+video{
+  width:380px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
